@@ -1,4 +1,4 @@
-=
+
 class Solution {
     void pushZerosToEnd(int[] arr) {
         // code here
@@ -12,4 +12,5 @@ class Solution {
            }
        }
     }
+
 }
